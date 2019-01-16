@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Recently all the tidyverse hexbins had been added to a RStudio github repository ([rstudio/hex-stickers](https://github.com/rstudio/hex-stickers)).
+
 # tidyverse-stickers
 Assembled some tidyverse packages hexbins into a tidyverse sticker. 
 
